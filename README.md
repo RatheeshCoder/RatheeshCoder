@@ -10,11 +10,11 @@
   <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
 </h1>
 
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=zeeid" />
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=ratheeshcoder" />
 
-<h1 align="center"></h1>
-<img align="left" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api?username=zeeid&count_private=true&show_icons=true&theme=tokyonight" />
-<img align="right" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeeid&layout=compact&theme=aura&langs_count=9" />
+<h1 align="center">khb</h1>
+<img align="left" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api?username=ratheeshcoder&count_private=true&show_icons=true&theme=tokyonight" />
+<img align="right" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ratheeshcoder&layout=compact&theme=aura&langs_count=9" />
 <img height="150" />
 <br><br>
 <img align="right" alt="GIF" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" width="450px" height="300px" />
@@ -25,10 +25,10 @@
 <br><br>
 
 - :I’m a developer who has passion for building clean web applications with intuitive functionality. I enjoy the process of turning ideas into reality using creative solutions. I’m always curious about learning new skills, tools, and concepts. In addition to working on various solo full stack projects, I have worked with creative teams, which involves daily stand-ups and communications, source control, and project management.
-- 🚚 CDN : https://cdn.jsdelivr.net/gh/zeeid/nama_repository/lokasi_file [*Without Branch name maybe] || repo@branch/location/
+- 🚚 CDN : https://cdn.jsdelivr.net/gh/ratheeshcoder/nama_repository/lokasi_file [*Without Branch name maybe] || repo@branch/location/
 <br>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zeeid&theme=tokyonight&no-frame=true&row=1&&margin-w=30&no-bg=false" alt="bc-expert" width="600px"/></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ratheeshcoder&theme=tokyonight&no-frame=true&row=1&&margin-w=30&no-bg=false" alt="bc-expert" width="600px"/></a> </p>
 
 
 <p align="center">
@@ -38,40 +38,71 @@
 <h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭</h2>
 <table>
   <tr>
-      <td><img src="https://cdn.iconscout.com/icon/free/png-256/codeigniter-5-1175246.png?raw=true" width="200"></td>
-      <td><img src="https://cdn.iconscout.com/icon/free/png-256/laravel-3-1175147.png?raw=true" width="200"></td>
-      <td><img src="https://cdn.iconscout.com/icon/free/png-256/javascript-1-225993.png?raw=true" width="200"></td>
-      <td><img src="https://cdn.iconscout.com/icon/free/png-256/php-2752101-2284918.png?raw=true" width="200"></td>
-      <td><img src="https://cdn.iconscout.com/icon/free/png-256/mysql-3521596-2945040.png?raw=true" width="200"></td>
-      <td><img src="https://cdn.iconscout.com/icon/free/png-256/sql-4-190807.png?raw=true" width="200"></td>
-      <td><img src="https://camo.githubusercontent.com/91c7c8fed6e4e9ccbb25bc941030bc604ea787c09ca2569377ed4d4840872a73/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d3132382f6a71756572792d372d313137353135322e706e67?raw=true" width="200"></td>
-      <td><img src="https://camo.githubusercontent.com/63a0652105f53ca10fd7bb584ec3326ffda6c6988ca944bb21f6ba0d764bf8be/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d3132382f68746d6c352d34302d313137353139332e706e67?raw=true" width="200"></td>
-      <td><img src="https://camo.githubusercontent.com/16243b90ca0de67f1183e67f41fc6383ca998d81c3dd7166b32eda4db307f919/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d3132382f637373332d31312d313137353233392e706e67" width="200"></td>
-      <td><img src="https://camo.githubusercontent.com/98c835566bae35eab51c05d004bf08bdbcb287186f492e1aeb20fa37f71ca7ca/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d3132382f736173732d31332d313137353039322e706e67" width="200"></td>
-      <td><img src="https://camo.githubusercontent.com/2297aeb5bcb2b38bb190fcae27e1bf9b0fe08699446c23d48585443881bce4c3/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d3132382f6769742d31382d313137353231392e706e67" width="200"></td>
+      <td><img src="https://cdn.iconscout.com/icon/free/png-512/free-graphql-3521468-2944912.png?f=webp&w=512" width="200"></td>
+      <td><img src="https://cdn.iconscout.com/icon/free/png-512/free-html5-41-1175209.png?f=webp&w=512" width="200"></td>
+      <td><img src="https://cdn.iconscout.com/icon/free/png-512/free-css3-10-1175238.png?f=webp&w=512" width="200"></td>
+      <td><img src="https://cdn.iconscout.com/icon/free/png-512/free-javascript-2038874-1720087.png?f=webp&w=512" width="200"></td>
+      <td><img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/php-2752101-2284918.png?f=webp&w=512" width="200"></td>
+      <td><img src="https://cdn.iconscout.com/icon/free/png-256/typescript-1174965.png" width="200"></td>
+      <td><img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/solidity-1497119-1267328.png?f=webp&w=512" width="200"></td>
+      <td><img src="https://cdn.iconscout.com/icon/free/png-512/free-aws-1869025-1583149.png?f=webp&w=512" width="200"></td>
+      <td><img src="https://cdn.iconscout.com/icon/free/png-512/free-oracle-9-1175131.png?f=webp&w=512" width="200"></td>
+      <td><img src="https://cdn.iconscout.com/icon/free/png-512/free-google-cloud-2038785-1721675.png?f=webp&w=512" width="200"></td>
   </tr>
   <tr>
-    <td><img src="https://camo.githubusercontent.com/7dd0ebf7a227b0f848f30a3dbd647a682075031e1010b19a7a41e366d281ce2b/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d3132382f626f6f7473747261702d3232363037372e706e67?raw=true" width="200"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-256/heroku-11-1175214.png?raw=true" width="200"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-256/visual-studio-code-3251603-2724650.png?raw=true" width="200"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-256/sourcetree-2-1175090.png?raw=true" width="200"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-256/extjs-458279.png?raw=true" width="200"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-512/free-firebase-3521427-2944871.png?f=webp&w=512" width="200"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-512/free-netlify-3521601-2945045.png?f=webp&w=512" width="200"></td>
+    <td><img src="https://www.svgrepo.com/show/327408/logo-vercel.svg" width="200"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-512/free-angular-226066.png?f=webp&w=512" width="200"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-512/free-bootstrap-6-1175203.png?f=webp&w=512" width="200"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-512/free-django-3550620-2970205.png?f=webp&w=512" width="200"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-512/free-express-8-1175029.png?f=webp&w=512" width="200"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-512/free-flask-51-285137.png?f=webp&w=512" width="200"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-512/free-jquery-10-1175155.png?f=webp&w=512" width="200"></td>
+    <td><img src="https://mui.com/static/logo.png" width="200"></td>
+    
+  </tr>
+  <tr>
+	  <td><img src="https://cdn.iconscout.com/icon/free/png-512/free-mysql-21-1174941.png?f=webp&w=512" width="200"></td>
+     <td><img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/adobe-photoshop-2522533-2132721.png?f=webp&w=512" width="200"></td>
+      <td><img src="https://cdn.iconscout.com/icon/free/png-512/free-blender-3628659-3029884.png?f=webp&w=512" width="200"></td>
+	   <td><img src="https://cdn.iconscout.com/icon/free/png-512/free-canva-3823975-3175197.png?f=webp&w=512" width="200"></td>
+	   <td><img src="https://cdn.iconscout.com/icon/free/png-512/free-figma-3628771-3030133.png?f=webp&w=512" width="200"></td>
+	     <td><img src="https://cdn.iconscout.com/icon/free/png-512/free-sketch-70-1174968.png?f=webp&w=512" width="200"></td>
+	     <td><img src="https://seeklogo.com/images/T/tensorflow-logo-02FCED4F98-seeklogo.com.png" width="200"></td>
+	     <td><img src="https://quintagroup.com/cms/python/images/scikit-learn-logo.png/@@images/4a0dce0a-be5d-4d11-a913-f53f9e5abf16.png" width="200"></td>
+	     <td><img src="https://cdn.iconscout.com/icon/free/png-512/free-wordpress-45-675858.png?f=webp&w=512" width="200"></td>
+	     <td><img src="https://cdn.iconscout.com/icon/free/png-512/free-nodejs-1-226034.png?f=webp&w=512" width="200"></td>
   </tr>
 
+  <tr>
+	  <td><img src="https://static-00.iconduck.com/assets.00/next-js-icon-512x512-zuauazrk.png" width="200"></td>
+     <td><img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/npm-2752117-2284934.png?f=webp&w=512" width="200"></td>
+      <td><img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/react-2752089-2284906.png?f=webp&w=512" width="200"></td>
+	   <td><img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/redux-2749334-2284724.png?f=webp&w=512" width="200"></td>
+	   <td><img src="https://cdn.iconscout.com/icon/free/png-512/free-tailwind-css-5285308-4406745.png?f=webp&w=512" width="200"></td>
+	     <td><img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/webgl-7414151-6151699.png?f=webp&w=512" width="200"></td>
+	     <td><img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/vite-vite-7152397-5795228.png?f=webp&w=512" width="200"></td>
+	     <td><img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/web-3-5640894-4693900.png?f=webp&w=512" width="200"></td>
+	     <td><img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/yarn-2752015-2284832.png?f=webp&w=512" width="200"></td>
+	     <td><img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/prompt-3186806-2692680.png?f=webp&w=512" width="200"></td>
+  </tr>
+  <!-- Add more skills and images as needed -->
 </table>
+
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
 <p align="center">
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/zeeid">
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/ratheeshcoder">
 		<img src="https://cdn.iconscout.com/icon/free/png-256/web-earth-online-market-planet-search-secure-1-9563.png" width="40" height="40"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/zeeidev/">
+        <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/ratheeshcoderev/">
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/zeeidev">
+		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/ratheeshcoderev">
 			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/c/ZeeiDeveloper">
+		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/c/ratheeshcodereveloper">
 				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
 		<a style="margin-left: 5px;" target="_blank" href="https://play.google.com/store/apps/dev?id=5506644742288227696&hl=in&gl=US">
 					<img src="https://cdn.iconscout.com/icon/free/png-256/playstore-2002562-1687192.png" width="40" height="40"></a>
@@ -81,12 +112,12 @@
 
 ------
 
-Credit: [zeeid](https://github.com/zeeid)
+Credit: [ratheeshcoder](https://github.com/ratheeshcoder)
 
 Last Edited on: 17/10/2022
 
 
 <!---
-zeeid/zeeid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ratheeshcoder/ratheeshcoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
