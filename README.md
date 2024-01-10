@@ -1,12 +1,12 @@
 <h1 align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=👋%20Web%20Fullstack%20Developer&reversal=true&descAlign=0&descAlignY=0&fontAlignY=50&fontAlign=50&animation=fadeIn&fontColor=fff&textBg=false&fontSize=60&rotate=-3&stroke=000&strokeWidth=1" width="100%"></h1>
 <p align="center">
-  <a href="https://github.com/fairyland0926"><img src="https://readme-typing-svg.herokuapp.com?font=Comic+Sans+MS&weight=900&size=35&pause=1000&color=28F76B&center=true&vCenter=true&random=true&width=435&lines=AI+%26+Data+Science+Studies;Passion+for+Innovation;Freelance+Contributor;Web+Project+Delivery;Continuous+Learning"></a>
+ <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Sans+MS&weight=900&size=35&pause=1000&color=28F76B&center=true&vCenter=true&random=true&width=435&lines=AI+%26+Data+Science+Studies;Passion+for+Innovation;Freelance+Contributor;Web+Project+Delivery;Continuous+Learning">
 </p>
 
 <p align='center'>
  <h1 align="center">
   <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
-  <a href="/"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=findwrk&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/></a>
+ <img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=findwrk&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/>
  <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/> 
 	 <img  src="https://visitor-badge.laobi.icu/badge?page_id=ratheeshcoder" />
 </h1>
